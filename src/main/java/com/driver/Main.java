@@ -3,7 +3,7 @@ package com.driver;
 public class Main {
 
     // Step 1: Create a product class inside Main 
-  static class Product{
+  public static class Product{
 
     // Step 3: Method with 2 int parameters
     public int product(int x, int y){
